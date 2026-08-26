@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3K3PrQaBpMuwIbMZIkYBelAk339fyqG7qXV6bx3QRA&s" 
-       width="100%" 
-       alt="Header">
-</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3K3PrQaBpMuwIbMZIkYBelAk339fyqG7qXV6bx3QRA&s" width="100%">
 
 ## Hi there 👋
 
