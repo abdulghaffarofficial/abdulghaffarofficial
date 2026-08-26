@@ -1,6 +1,8 @@
 
-![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3K3PrQaBpMuwIbMZIkYBelAk339fyqG7qXV6bx3QRA&s)
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3K3PrQaBpMuwIbMZIkYBelAk339fyqG7qXV6bx3QRA&s" alt="Header">
+</p>
 
 ## Hi there 👋
 
