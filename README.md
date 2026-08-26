@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://eccweb.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/06/24103745/Blog-Banner-Impact-of-Agentic-AI-in-Cybersecurity.jpg">
+  <img src="https://media.istockphoto.com/id/2226081013/photo/ai-agent-technology-for-automation-and-virtual-assistance-person-using-laptop-with-ai-agents.jpg?s=2048x2048&w=is&k=20&c=qc80H2oCKcu1bER-FGZ36nwFgikX81Wev9265wGm31Y=">
 </p>
 
 ## Hi there 👋
