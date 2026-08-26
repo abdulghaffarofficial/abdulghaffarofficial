@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3K3PrQaBpMuwIbMZIkYBelAk339fyqG7qXV6bx3QRA&s" 
-       width="100%" 
-       alt="Header">
-</p>
-
+<div align="center">
+    <img 
+        src="https://www.sculptsoft.com/wp-content/uploads/2025/06/freepik__enhance__29604-scaled-1.jpg" 
+        alt="" 
+        width="700" 
+        style="max-width: 100%; border-radius: 10px;"
+    >
+</div>
 ## Hi there 👋
 
 - 🌱 I'm currently learning **Agentic AI**
