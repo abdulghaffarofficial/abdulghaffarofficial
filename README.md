@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.sculptsoft.com/wp-content/uploads/2025/06/freepik_enhance_29604-scaled-1.jpg" width="80%">
+    <img src="https://www.sculptsoft.com/wp-content/uploads/2025/06/freepik__enhance__29604-scaled-1.jpg">
 </p>
 
 
