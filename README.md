@@ -1,5 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Abdul%20Ghaffar&fontSize=40)
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abdul%20Ghaffar&fontSize=40)
 
 
 ## Hi there 👋
