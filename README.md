@@ -1,4 +1,6 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3K3PrQaBpMuwIbMZIkYBelAk339fyqG7qXV6bx3QRA&s" width="100%">
+<p align="center">
+  <img src="https://www.scworld.com/api/thumbor-proxy?width=1920&src=https%3A%2F%2Ffiles.cyberriskalliance.com%2Fwp-content%2Fuploads%2F2025%2F01%2F010825_ai_sphere.jpg" width="100%" alt="AI Banner">
+</p>
 
 ## Hi there 👋
 
